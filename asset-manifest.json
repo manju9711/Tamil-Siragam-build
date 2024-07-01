@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2347acf6.css",
-    "main.js": "/static/js/main.8c3bbffb.js",
+    "main.css": "/static/css/main.291c1a44.css",
+    "main.js": "/static/js/main.773307d1.js",
     "static/js/453.c8e7a319.chunk.js": "/static/js/453.c8e7a319.chunk.js",
     "static/media/banner.png": "/static/media/banner.18f612384bc8644a2038.png",
     "static/media/donate-now-01a4ffd9.png": "/static/media/donate-now-01a4ffd9.ecd8561c6766cd3298a1.png",
@@ -12,12 +12,12 @@
     "static/media/mukta-malar-latin-ext-500-normal.woff2": "/static/media/mukta-malar-latin-ext-500-normal.ca8d850ff8ee56155f97.woff2",
     "static/media/mukta-malar-latin-ext-500-normal.woff": "/static/media/mukta-malar-latin-ext-500-normal.8fed32889845472a4aec.woff",
     "index.html": "/index.html",
-    "main.2347acf6.css.map": "/static/css/main.2347acf6.css.map",
-    "main.8c3bbffb.js.map": "/static/js/main.8c3bbffb.js.map",
+    "main.291c1a44.css.map": "/static/css/main.291c1a44.css.map",
+    "main.773307d1.js.map": "/static/js/main.773307d1.js.map",
     "453.c8e7a319.chunk.js.map": "/static/js/453.c8e7a319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2347acf6.css",
-    "static/js/main.8c3bbffb.js"
+    "static/css/main.291c1a44.css",
+    "static/js/main.773307d1.js"
   ]
 }
