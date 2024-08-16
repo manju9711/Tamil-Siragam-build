@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b375a4d0.css",
-    "main.js": "/static/js/main.21a9612b.js",
+    "main.css": "/static/css/main.40e1aea8.css",
+    "main.js": "/static/js/main.fe112e23.js",
     "static/js/453.c8e7a319.chunk.js": "/static/js/453.c8e7a319.chunk.js",
     "static/media/banner.png": "/static/media/banner.18f612384bc8644a2038.png",
-    "static/media/WTS-Full-Logo-WT.png": "/static/media/WTS-Full-Logo-WT.634d851f2203605ec145.png",
+    "static/media/WTS-Full-Logo-WT.png": "/static/media/WTS-Full-Logo-WT.6591b6056eaf8d5d2d99.png",
     "static/media/visionbanner.png": "/static/media/visionbanner.69bc7af964118645a548.png",
+    "static/media/logo.jpeg": "/static/media/logo.dc7feefe7def6f1beed0.jpeg",
     "static/media/donate-now-01a4ffd9.png": "/static/media/donate-now-01a4ffd9.ecd8561c6766cd3298a1.png",
     "static/media/bannerimage.jpeg": "/static/media/bannerimage.5dfa20425a1ad2c80cb6.jpeg",
     "static/media/mukta-malar-tamil-500-normal.woff2": "/static/media/mukta-malar-tamil-500-normal.6e7c081bf85f44a1b2e1.woff2",
@@ -15,12 +16,12 @@
     "static/media/mukta-malar-latin-ext-500-normal.woff2": "/static/media/mukta-malar-latin-ext-500-normal.ca8d850ff8ee56155f97.woff2",
     "static/media/mukta-malar-latin-ext-500-normal.woff": "/static/media/mukta-malar-latin-ext-500-normal.8fed32889845472a4aec.woff",
     "index.html": "/index.html",
-    "main.b375a4d0.css.map": "/static/css/main.b375a4d0.css.map",
-    "main.21a9612b.js.map": "/static/js/main.21a9612b.js.map",
+    "main.40e1aea8.css.map": "/static/css/main.40e1aea8.css.map",
+    "main.fe112e23.js.map": "/static/js/main.fe112e23.js.map",
     "453.c8e7a319.chunk.js.map": "/static/js/453.c8e7a319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b375a4d0.css",
-    "static/js/main.21a9612b.js"
+    "static/css/main.40e1aea8.css",
+    "static/js/main.fe112e23.js"
   ]
 }
