@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.29d4da37.css",
-    "main.js": "/static/js/main.a2eefb45.js",
+    "main.js": "/static/js/main.3e7ff0fa.js",
     "static/js/453.c8e7a319.chunk.js": "/static/js/453.c8e7a319.chunk.js",
     "static/media/banner.png": "/static/media/banner.18f612384bc8644a2038.png",
     "static/media/WTS-Full-Logo-WT.png": "/static/media/WTS-Full-Logo-WT.6591b6056eaf8d5d2d99.png",
     "static/media/visionbanner.png": "/static/media/visionbanner.69bc7af964118645a548.png",
+    "static/media/malar.jpeg": "/static/media/malar.f7a40ff9659731a61a0e.jpeg",
     "static/media/logo.jpeg": "/static/media/logo.dc7feefe7def6f1beed0.jpeg",
     "static/media/wtslogo.jpeg": "/static/media/wtslogo.dc7feefe7def6f1beed0.jpeg",
     "static/media/donate-now-01a4ffd9.png": "/static/media/donate-now-01a4ffd9.ecd8561c6766cd3298a1.png",
@@ -18,11 +19,11 @@
     "static/media/mukta-malar-latin-ext-500-normal.woff": "/static/media/mukta-malar-latin-ext-500-normal.8fed32889845472a4aec.woff",
     "index.html": "/index.html",
     "main.29d4da37.css.map": "/static/css/main.29d4da37.css.map",
-    "main.a2eefb45.js.map": "/static/js/main.a2eefb45.js.map",
+    "main.3e7ff0fa.js.map": "/static/js/main.3e7ff0fa.js.map",
     "453.c8e7a319.chunk.js.map": "/static/js/453.c8e7a319.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29d4da37.css",
-    "static/js/main.a2eefb45.js"
+    "static/js/main.3e7ff0fa.js"
   ]
 }
