@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd1803c1.css",
-    "main.js": "/static/js/main.f0ada498.js",
+    "main.css": "/static/css/main.5271e124.css",
+    "main.js": "/static/js/main.7c73e355.js",
     "static/js/453.c8e7a319.chunk.js": "/static/js/453.c8e7a319.chunk.js",
     "static/media/banner.png": "/static/media/banner.18f612384bc8644a2038.png",
     "static/media/center-image.png": "/static/media/center-image.bd35fe5c461eb14e2e48.png",
@@ -12,20 +12,22 @@
     "static/media/my-image (1).png": "/static/media/my-image (1).be2bc62193912c2e3a82.png",
     "static/media/logo.jpeg": "/static/media/logo.dc7feefe7def6f1beed0.jpeg",
     "static/media/donate-now-01a4ffd9.png": "/static/media/donate-now-01a4ffd9.ecd8561c6766cd3298a1.png",
+    "static/media/valluvar.webp": "/static/media/valluvar.31a2afee5eead45a99f1.webp",
     "static/media/bannerimage.jpeg": "/static/media/bannerimage.5dfa20425a1ad2c80cb6.jpeg",
     "static/media/mukta-malar-tamil-500-normal.woff2": "/static/media/mukta-malar-tamil-500-normal.6e7c081bf85f44a1b2e1.woff2",
     "static/media/mukta-malar-tamil-500-normal.woff": "/static/media/mukta-malar-tamil-500-normal.ddfb388a4f723d123987.woff",
     "static/media/mukta-malar-latin-500-normal.woff2": "/static/media/mukta-malar-latin-500-normal.c0cf8b6557e3482cccbc.woff2",
+    "static/media/reward.png": "/static/media/reward.d37b98180c55357b47c1.png",
     "static/media/mukta-malar-latin-500-normal.woff": "/static/media/mukta-malar-latin-500-normal.421536512ce0171c384a.woff",
     "static/media/mukta-malar-latin-ext-500-normal.woff2": "/static/media/mukta-malar-latin-ext-500-normal.ca8d850ff8ee56155f97.woff2",
     "static/media/mukta-malar-latin-ext-500-normal.woff": "/static/media/mukta-malar-latin-ext-500-normal.8fed32889845472a4aec.woff",
     "index.html": "/index.html",
-    "main.dd1803c1.css.map": "/static/css/main.dd1803c1.css.map",
-    "main.f0ada498.js.map": "/static/js/main.f0ada498.js.map",
+    "main.5271e124.css.map": "/static/css/main.5271e124.css.map",
+    "main.7c73e355.js.map": "/static/js/main.7c73e355.js.map",
     "453.c8e7a319.chunk.js.map": "/static/js/453.c8e7a319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd1803c1.css",
-    "static/js/main.f0ada498.js"
+    "static/css/main.5271e124.css",
+    "static/js/main.7c73e355.js"
   ]
 }
